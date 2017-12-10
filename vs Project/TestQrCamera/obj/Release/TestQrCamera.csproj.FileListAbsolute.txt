@@ -1,0 +1,120 @@
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\TestQrCamera.exe.config
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\TestQrCamera.exe
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\TestQrCamera.pdb
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.dll
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.Imaging.dll
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.Math.dll
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.Video.dll
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\zxing.dll
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\zxing.presentation.dll
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.xml
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.Imaging.xml
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.Math.xml
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.Video.xml
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\zxing.pdb
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\zxing.xml
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\zxing.presentation.pdb
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\bin\Release\zxing.presentation.xml
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\MainWindow.g.cs
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\App.g.cs
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\TestQrCamera_MarkupCompile.cache
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\TestQrCamera_MarkupCompile.lref
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\MainWindow.baml
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\TestQrCamera.g.resources
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\TestQrCamera.Properties.Resources.resources
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\TestQrCamera.csproj.GenerateResource.Cache
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\TestQrCamera.exe
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\TestQrCamera.pdb
+C:\Users\mamim_000\Documents\Visual Studio 2015\Projects\TestQrCamera\TestQrCamera\obj\Release\TestQrCamera.csprojResolveAssemblyReference.cache
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\TestQrCamera.exe.config
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.exe
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.pdb
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\TestQrCamera.exe
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\TestQrCamera.pdb
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.dll
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Imaging.dll
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Math.dll
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Video.dll
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\zxing.dll
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\zxing.presentation.dll
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.xml
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Imaging.xml
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Math.xml
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Video.xml
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\zxing.pdb
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\zxing.xml
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\zxing.presentation.pdb
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\bin\Release\zxing.presentation.xml
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.csprojResolveAssemblyReference.cache
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\MainWindow.g.cs
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\App.g.cs
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera_MarkupCompile.cache
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera_MarkupCompile.lref
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\MainWindow.baml
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.g.resources
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.Properties.Resources.resources
+C:\Users\mamim_000\Desktop\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.csproj.GenerateResource.Cache
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\TestQrCamera.exe.config
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.exe
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.pdb
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\TestQrCamera.exe
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\TestQrCamera.pdb
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Imaging.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Math.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Video.DirectShow.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Video.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\zxing.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\zxing.presentation.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Imaging.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Math.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Video.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\AForge.Video.DirectShow.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\zxing.pdb
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\zxing.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\zxing.presentation.pdb
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\bin\Release\zxing.presentation.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.csprojResolveAssemblyReference.cache
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\MainWindow.g.cs
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\App.g.cs
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera_MarkupCompile.cache
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera_MarkupCompile.lref
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\MainWindow.baml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.g.resources
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.Properties.Resources.resources
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder\TestQrCamera\obj\Release\TestQrCamera.csproj.GenerateResource.Cache
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\TestQrCamera.exe.config
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\TestQrCamera.exe
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\TestQrCamera.pdb
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\TestQrCamera.exe
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\TestQrCamera.pdb
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.Imaging.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.Math.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.Video.DirectShow.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.Video.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\zxing.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\zxing.presentation.dll
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.Imaging.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.Math.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.Video.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\AForge.Video.DirectShow.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\zxing.pdb
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\zxing.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\zxing.presentation.pdb
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\bin\Release\zxing.presentation.xml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\TestQrCamera.csprojResolveAssemblyReference.cache
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\MainWindow.g.cs
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\App.g.cs
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\TestQrCamera_MarkupCompile.cache
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\TestQrCamera_MarkupCompile.lref
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\MainWindow.baml
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\TestQrCamera.g.resources
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\TestQrCamera.Properties.Resources.resources
+E:\mamim_000\DownloadsE\Latest\latest\frameRecorder - Copy\TestQrCamera\obj\Release\TestQrCamera.csproj.GenerateResource.Cache
