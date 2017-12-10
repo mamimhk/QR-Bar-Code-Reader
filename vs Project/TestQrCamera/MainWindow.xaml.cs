@@ -88,7 +88,7 @@ namespace TestQrCamera
         private void VideoDevice_NewFrame(object sender, NewFrameEventArgs eventArgs)
         {
             decodeframe(eventArgs.Frame);
-            string picFile = @"E:\frames\frame_" + frameCounter.ToString() + "_" + DateTime.Now.ToString(@"MM_dd_yyyy_HH_mm") + ".png";
+            string picFile = @".\frame_" + frameCounter.ToString() + "_" + DateTime.Now.ToString(@"MM_dd_yyyy_HH_mm") + ".png";
             Dispatcher.Invoke(new ThreadStart(delegate { FrameCounterTextBlock.Text = "frames recorded: " + frameCounter.ToString(); }));
             BitmapImage bi = new BitmapImage();
             if (record)
